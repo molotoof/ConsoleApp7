@@ -6,6 +6,7 @@ namespace ConsoleApp7
     {
         static void Main(string[] args)
         {
+            int a;
             Console.WriteLine("Hello World!");
         }
     }
